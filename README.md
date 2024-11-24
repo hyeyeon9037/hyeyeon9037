@@ -4,7 +4,7 @@
 
 <br><br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&color=000000&&size=32&width=435&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=37&pause=1000&color=7B50678A&background=EBC0CC67&center=true&width=500&height=80&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -60,5 +60,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
+  
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeon9037)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
