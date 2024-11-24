@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&width=435&lines=Welcome+to+Hyeyeon's+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&width=435&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
