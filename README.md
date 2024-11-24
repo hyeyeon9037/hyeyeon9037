@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lacquer&?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>📚 STACKS</h2>
