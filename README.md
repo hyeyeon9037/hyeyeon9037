@@ -1,5 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /> Welcome to Hyeyeon's Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" />
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>📚 STACKS</h2>
