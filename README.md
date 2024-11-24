@@ -65,8 +65,7 @@
 
 [기초 오라클 노션](https://www.notion.so/29bede9df7234803be9bf975a2b37419)
 <br>
-[기초 자바스크립 노션](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#bd2e81278aad410c9d5ba36c6fc8a95a)
-
+[기초 자바스크립 노션](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeon9037)](https://github.com/anuraghazra/github-readme-stats)
 </div>
