@@ -60,6 +60,10 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
+
+<br><br>
+
+[연이의 기초 노션](https://www.notion.so/29bede9df7234803be9bf975a2b37419)
   
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeon9037)](https://github.com/anuraghazra/github-readme-stats)
