@@ -4,6 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&duration=4999&pause=1000&color=000000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=welcome+to+Hyeyeon's+gitHub" alt="Typing SVG" /></a>
 
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeyeon's+GitHub](https://readme-typing-svg.demolab.com?font=Lacquer&size=30&duration=4999&pause=1000&color=000000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=welcome+to+Hyeyeon's+gitHub))](https://git.io/typing-svg)****
+
+
 <div align="center">
   <h2>📚 STACKS</h2>
 
