@@ -2,10 +2,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
 
+<br><br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&color=000000&&size=32&width=435&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
 </div>
 
+<br>
 <div align="center">
   <h2>📚 STACKS</h2>
   
