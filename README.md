@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Lacquer&weight=500&size=40?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeyeon's+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>📚 STACKS</h2>
