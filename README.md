@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2>📚 STACKS</h2>
-
+  
   <!-- Database -->
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brown%20Heart.png" alt="Brown Heart" width="25" height="25" /> Database <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brown%20Heart.png" alt="Brown Heart" width="25" height="25" /</h3>
   <div>
