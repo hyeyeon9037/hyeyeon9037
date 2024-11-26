@@ -99,17 +99,13 @@
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Study </h2>
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 정리한 노션... 
-</summary>
 
 <br>
 
 [오라클](https://www.notion.so/29bede9df7234803be9bf975a2b37419)
 <br><br>
 [자바스크립](https://www.notion.so/e88d580ad4ae47bb8c1231202f237ab6#f4ce1b8607ef4a829b4b8fc9ceb03c19)
-</details>
+
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeon9037)](https://github.com/anuraghazra/github-readme-stats)
