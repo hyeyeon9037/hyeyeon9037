@@ -97,6 +97,21 @@
 
 <br><br>
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📸 <a href="https://github.com/hyeyeon9037/Dicom_Project">Dicom 프로젝트</a></h3>
+      <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발.  </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 <a href="https://github.com/hyeyeon9037/ECR_project">ECR 프로젝트(방탈출)</a></h3>
+      <p> 방탈출 정보를 한 화면에서 확인하고 예약 및 관리를 지원하는 통합 포털 플랫폼을 구현했으며, 오픈소스와 API를 활용해 직관적이고 접근성 높은 웹 서비스를 개발</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Study </h2>
 
 
