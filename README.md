@@ -100,7 +100,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/8557b558-de7c-45c2-a87a-6106bcf39a07">
+      <a herf="https://github.com/hyeyeon9037/Dicom_Project"> <img src="https://github.com/user-attachments/assets/8557b558-de7c-45c2-a87a-6106bcf39a07"></a>
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Health%20Worker%20Light%20Skin%20Tone.png" alt="Health Worker Light Skin Tone" width="25" height="25" /> <a href="https://github.com/hyeyeon9037/Dicom_Project">의료이미지를 시각화한 프로젝트</a></h3>
       <p>DICOM 데이터를 효율적으로 관리하고 Cornerstone.js로 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 기능을 제공하는 시스템 개발</p>
     </td>
