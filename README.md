@@ -5,7 +5,7 @@
 
 <br><br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=37&pause=1000&color=7B50678A&center=true&width=500&height=80&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
+<a href="https://github.com/hyeyeon9037"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=37&pause=1000&color=7B50678A&center=true&width=500&height=80&lines=welcome+to+hyeyeon's+github" alt="Typing SVG" /></a>
 </div>
 
 <br>
