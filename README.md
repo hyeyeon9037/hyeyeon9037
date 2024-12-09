@@ -14,7 +14,7 @@
 <div align="center">
 
   <h2> 👩 introduction </h2>
-안녕하세요! 신입 프론트엔드 개발자를 꿈꾸는 박혜연입니다. <br><br>
+안녕하세요! 신입 소프트웨어 개발자를 꿈꾸는 박혜연입니다. <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" />
 <br>
  <details>
